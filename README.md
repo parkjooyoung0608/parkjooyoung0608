@@ -10,8 +10,7 @@ Introduce
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=remon)](https://velog.io/@remon)
 
-![parkjooyoung0608's github stats](https://github-readme-stats.vercel.app/api?username=parkjooyoung0608&show_icons=true)
-[![parkjooyoung0608's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjooyoung0608&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/parkjooyoung0608)
+![parkjooyoung0608's github stats](https://github-readme-stats.vercel.app/api?username=parkjooyoung0608&show_icons=true)[![parkjooyoung0608's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjooyoung0608&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/parkjooyoung0608)
 
 Skills
 ---
