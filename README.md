@@ -10,6 +10,11 @@ Introduce
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=remon)](https://velog.io/@remon)
 
+![parkjooyoung0608's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjooyoung0608&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjooyoung0608&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Skills
 ---
@@ -18,6 +23,4 @@ Skills
 
 
 
-![parkjooyoung0608's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjooyoung0608&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjooyoung0608&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
